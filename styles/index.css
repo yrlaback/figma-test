@@ -15,6 +15,10 @@
     color: #A3DC00;
 }
 
+section{
+    display: inline-block;
+}
+
 .main-title {
     font-family: 'Ramaraja', serif;
     font-style: normal;
@@ -62,8 +66,4 @@
     margin-top: 50px;
     margin-left: 200px;
     border: none;
-}
-
-section{
-    display: inline-block;
 }
